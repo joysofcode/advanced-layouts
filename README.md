@@ -1,10 +1,16 @@
-# SvelteKit Group Layouts
+# SvelteKit Advanced Layouts
+
+Learn how to break out of layouts in SvelteKit.
 
 This includes the starter and solution example that shows how to use SvelteKit group layouts.
 
+## Post
+
+✍️ https://joyofcode.xyz/sveltekit-advanced-layouts
+
 ## Remote Development
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mattcroat/group-layouts)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/joysofcode/advanced-layouts)
 
 ## Local Development
 
