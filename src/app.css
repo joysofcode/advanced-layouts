@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+
+html,
+body {
+	height: 100%;
+}
+
+body::after {
+	content: '';
+	position: fixed;
+	inset: 0;
+	background: radial-gradient(
+		hsl(206 29% 16%),
+		hsl(206 29% 8%)
+	);
+	z-index: -10;
+}
+
+h2,
+h3,
+ul {
+	--color: white;
+}
+
+article {
+	border: 1px solid hsl(206 29% 14%);
+	border-radius: 1rem;
+	overflow: hidden;
+}
+
+input,
+button,
+textarea {
+	border-radius: 1rem;
+	--border-color: hsl(206 29% 16%);
+}
+
+.cover {
+	position: fixed;
+	inset: 0;
+	background-image: url('/cover.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 50% 30%;
+	z-index: -10;
+}
+
+.cover::after {
+	content: '';
+	position: fixed;
+	inset: 0;
+	background: var(--background-color);
+	opacity: 0.9;
+}
+
+.container {
+	max-width: 800px;
+	margin-inline: auto;
+	padding: 2rem 0;
+}
+
+.serif {
+	font-family: 'Libre Baskerville';
+}
+
+.capitalize {
+	text-transform: capitalize;
+}
+
+.size {
+	--size: 1rem;
+	font-size: var(--size);
+}
+
+.space {
+	--space: 4rem;
+	margin-top: var(--space);
+}
