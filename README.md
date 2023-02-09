@@ -2,8 +2,6 @@
 
 Learn how to break out of layouts in SvelteKit.
 
-This includes the starter and solution example that shows how to use SvelteKit group layouts.
-
 ## Post
 
 ✍️ https://joyofcode.xyz/sveltekit-advanced-layouts
