@@ -24,7 +24,7 @@ https://github.com/mattcroat/group-layouts.git
 pnpm i
 ```
 
-## 💿️ Run the development server
+### 💿️ Run the development server
 
 ```sh
 pnpm run dev
