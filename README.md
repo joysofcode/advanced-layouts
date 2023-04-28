@@ -15,7 +15,7 @@ Learn how to break out of layouts in SvelteKit.
 ### 🧑‍🤝‍🧑 Clone the starter
 
 ```sh
-https://github.com/mattcroat/group-layouts.git
+https://github.com/joysofcode/advanced-layouts.git
 ```
 
 ### 📦️ Install dependencies
